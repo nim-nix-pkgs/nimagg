@@ -11,7 +11,6 @@
   inputs.src-nimAGG-master.ref   = "refs/heads/master";
   inputs.src-nimAGG-master.owner = "jangko";
   inputs.src-nimAGG-master.repo  = "nimAGG";
-  inputs.src-nimAGG-master.dir   = "";
   inputs.src-nimAGG-master.type  = "github";
   
   inputs."sdl2_nim".owner = "nim-nix-pkgs";
